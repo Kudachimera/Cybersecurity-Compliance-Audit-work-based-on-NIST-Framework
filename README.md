@@ -28,9 +28,9 @@ In this lab we are going to walk through how to carry out a Cyber security compl
 
 <h2> Cybersecurity audit </h2>
 
-- <b> A cyber security audit is a systematic and independent examination of an organization’s cyber security. An audit ensures that the proper security controls, policies, and procedures are in place and working effectively. 
+- <b> A cyber security audit is a systematic and independent examination of an organization’s cyber security.The audit ensures that the proper security controls, policies, and procedures are in place and working effectively. 
 
-- <b> The audit provides a comprehensive assessment of information systems to evaluate compliance and identify gaps in security policy implementation.
+- <b> The objective of a cybersecurity audit is to provide management with an evaluation of the effectiveness of cybersecurity processes, policies, procedures, governance and other controls. The review will focus on cybersecurity standards, guidelines and procedures as well as the implementation of these controls
 <br />
 
 <h2> Methodology for the cybersecurity audit </h2>
