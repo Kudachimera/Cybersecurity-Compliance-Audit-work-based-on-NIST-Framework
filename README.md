@@ -37,7 +37,7 @@ In this lab we are going to walk through how to carry out a Cyber security compl
 
 Walkthrough: Define Audit Objective </h2>
 
-Once what is being audited has been decided,the objective of the audit needs to be established.Why is it being audited? From an auditor’s perspective, it is advisable to adopt a risk-based approach (focusing on high risk areas) and define the objectives accordingly.
+Define what needs to be audited has been and why is it being audited? It is advisable to adopt a risk-based approach (focusing on high risk areas) and define the objectives accordingly.
 
 The audit objectives should be limited to a reasonable scope and should also correspond to cybersecurity and protection goals as defined by the enterprise.
 
@@ -51,7 +51,7 @@ The audit objectives should be limited to a reasonable scope and should also cor
 
 Walkthrough: Set Audit Scope </h2>
 
-Once the objectives for the audit have been defined, the planning and scoping process should identify all areas and aspects of cybersecurity to be covered. In other words, what are the limits to the audit? This could include a specific country, region, division, process area or aspect of cybersecurity.This should be risk based approach .
+After defining the objectives for the audit have, the planning and scoping process should identify all areas and aspects of cybersecurity to be covered. In other words, what are the limits to the audit? This could include a specific country, region, division, process area or aspect of cybersecurity.This should be risk based approach .
 
 Cybersecurity audit scopes are usually more restricted than those for general IT audits due to the higher level of complexity and technical detail to be covered. For an annual or multiyear scope, it is advisable to break down the overall scope into manageable audits and reviews, grouping them by area addressed and by approach.
 
@@ -69,7 +69,7 @@ The  scope of the audit is on focusing on five critical cybersecurity activities
 
 •	Recover
 
-We will identify the scope of organizational systems and assets to be reviewed. 
+The audit scope its for an annual period to review effectiveness of the organisation's cyber security program.
 
 Walkthrough: Perform Pre-Audit Planning </h2>
 
